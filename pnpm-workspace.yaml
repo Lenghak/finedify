@@ -1,0 +1,9 @@
+packages:
+  - frontend/*
+  - backend/*
+  - packages/*
+  - config/*
+  - ci/*
+
+onlyBuiltDependencies:
+  - esbuild
